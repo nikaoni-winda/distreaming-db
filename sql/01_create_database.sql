@@ -1,0 +1,2 @@
+CREATE DATABASE mini_project_distreaming;
+USE mini_project_distreaming;
